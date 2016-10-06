@@ -1,0 +1,39 @@
+{
+    "author": "dickle",
+    "dependencies": {},
+    "keywords": [],
+    "name": "leco-style",
+    "pebble": {
+        "displayName": "LECO Style",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "fonts/LECO_1976_Regular.ttf",
+                    "name": "FONT_LECO_48",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/LECO_1976_Regular.ttf",
+                    "name": "FONT_LECO_16",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "diorite"
+        ],
+        "uuid": "7fdc29e8-241f-4cc4-a4c3-52d0656d6412",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.1.0"
+}
